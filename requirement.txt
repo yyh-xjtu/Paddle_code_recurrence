@@ -1,0 +1,8 @@
+paddlepaddle
+
+
+
+'''#server
+python -m pip install paddlepaddle-gpu==2.0.2.post110 -f https://paddlepaddle.org.cn/whl/mkl/stable.html
+#Desktop
+python -m pip install paddlepaddle==2.0.2 -i https://mirror.baidu.com/pypi/simple '''
